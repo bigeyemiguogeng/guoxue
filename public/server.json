@@ -1,0 +1,16 @@
+{
+	"appName":"国学新声",
+	"appCode":"guoxue123",
+	"serverUrl":"http://localhost:54801",
+	"appInfo":{
+		"id":"654356e3d1a64fe28a90e1002386b5e0",
+		"layout":"1",
+		"security":"http",
+		"selectModule":""
+	},
+	"supportVersion":{
+		"createVersion":"v3.1.7",
+		"maxVersion":"v3.1.7",
+		"minVersion":"v3.1.7"
+	}
+}
